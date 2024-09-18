@@ -1,0 +1,69 @@
+body{
+    background-color: aquamarine;
+    }
+
+h1{
+    margin-left: 550px;
+   font-size:40px;
+   
+}
+
+
+button img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    cursor: pointer;
+    
+}
+
+button img:hover{
+   border: solid red;
+   box-shadow: 3px 3px 5px red ;
+   
+
+}
+
+
+button{
+    border: none;
+    background-color: transparent;
+   
+}
+
+table th{
+    background-color: blueviolet;
+    color: white;
+    padding: 5px;
+}
+table td{
+    background-color: wheat;
+    color: black;
+    padding: 5px;
+}
+#reset-btn{
+    height: 60px;
+    width: 60px;
+}
+
+
+.button{
+    display: flex;
+   margin-left:450px;
+   height:150px;
+   margin-top:10px;
+   margin-bottom:50px;
+}
+
+#table1{
+   margin-left:540px;
+   width:300px;
+   
+}
+
+#gameHistory{
+    margin-left: 470px;
+   width:450px;
+
+}
